@@ -124,6 +124,8 @@ List of Labs - CIT 281:
     - Part 4: Download completed course repo as deliverable
 
 
+![Mountain Background](https://user-images.githubusercontent.com/84686133/120879187-72564000-c576-11eb-9249-63eab7521e89.jpg)
+
 
 ## Welcome to GitHub Pages
 
